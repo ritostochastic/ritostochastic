@@ -1,7 +1,11 @@
-# Hey, I'm Rito.
+# Hi, I'm Ritobroto (Rito)
 
-Statistics undergraduate exploring quantitative finance through mathematics, statistics, and code.
+Statistics Undergraduate • Aspiring Quant Trader
 
-**Tech:** C++ • Python • R
+Interested in quantitative finance, probability, and mathematical modeling.
 
-Currently building projects in probability, stochastic processes, and data analysis.
+Currently building with C++, Python, and R.
+
+Always learning, always building.
+
+*"First, solve the problem. Then, write the code."* — John Johnson
